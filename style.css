@@ -10,19 +10,19 @@ h1 {
     font-size: 36px;
 }
 
-h2.center {
+h2.aboutMe {
     color: white;
     text-align: center;
 }
 
-h2.columnLeft{
+h2.workExperience{
     color: red;
     text-align: left;
     column-count: 1;
 }
 
 
-h2.columnRight {
+h2.educationBackground {
     color: blue;
-    text-align: right;
+    text-align: left;
 }
