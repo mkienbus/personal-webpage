@@ -1,0 +1,26 @@
+html {
+    background-image: url(../personal-webpage/mountainsLake.jpeg);
+    background-size: cover;
+    background-color: skyblue;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2.center {
+    color: white;
+    text-align: center;
+}
+
+h2.columnLeft {
+    color: red;
+    text-align: left;
+}
+
+h2.columnRight {
+    color: blue;
+    text-align: right;
+}
