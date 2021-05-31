@@ -1,6 +1,6 @@
 html {
-    background-image: url(../personal-webpage/mountainsLake.jpeg);
-    background-size: cover;
+    /*background-image: url(../personal-webpage/mountainsLake.jpeg);
+    background-size: cover;*/
     background-color: skyblue;
     background-repeat: no-repeat;
 }
@@ -15,10 +15,12 @@ h2.center {
     text-align: center;
 }
 
-h2.columnLeft {
+h2.columnLeft{
     color: red;
     text-align: left;
+    column-count: 1;
 }
+
 
 h2.columnRight {
     color: blue;
